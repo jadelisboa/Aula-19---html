@@ -1,0 +1,17 @@
+<html>
+
+  <head> 
+    <title> Página 1 </title>
+
+  </head>
+
+
+   <body>
+    Bom dia! <br><br>
+     
+<img src = "flor.jpg">    //(nome do arquivo da imagem com extenção)         
+        
+   </body>
+   
+
+</html>
