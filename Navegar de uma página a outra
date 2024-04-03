@@ -1,0 +1,42 @@
+<html>                                                                                          
+
+  <head> 
+    <title> Página 1 </title>
+
+  </head>
+  <body bgcolor = '#66CDAA'>
+    Bom dia essa é a página 1! <br><br>
+     <font size= '6' color = '#DCDCDC'>
+       Jade <br>
+     </font>
+
+       <img src = "img/flor.jpg">     
+ 
+<a href="pagina2.html"=>CLIQUE AQUI PARA IR ATÉ A PÁGINA 2</a> 
+
+  </body>
+   
+
+</html>
+
+--------------------------------------------------------------------------------
+
+<html>
+
+  <head> 
+    <title> Página 2 </title>
+
+  </head>
+  <body bgcolor = '#FFDEAD'>
+    Bom dia essa é a página 2! <br><br>
+     <font size= '5' color = '#808080'>
+       Jade <br>
+     </font>
+
+       <img src = "img/flor.jpg">         
+ 
+<a href="pagina1.html"=>CLIQUE AQUI PARA IR ATÉ A PÁGINA 1</a>        
+  
+  </body>
+   
+</html>
